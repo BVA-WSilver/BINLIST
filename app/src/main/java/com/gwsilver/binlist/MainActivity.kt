@@ -8,7 +8,6 @@ import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.gwsilver.binlist.databinding.ActivityMainBinding
 import org.json.JSONObject
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
